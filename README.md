@@ -16,6 +16,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact)](https://github.com/naneps/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/1050/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="padding-right:10px;" />
