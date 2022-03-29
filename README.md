@@ -30,6 +30,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png" style="padding-right:10px;" />
 
 
 <br />
