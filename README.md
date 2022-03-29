@@ -31,7 +31,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://i.pinimg.com/236x/02/55/3a/02553ab35a4a3541b9fb3bc8f1fad1bc.jpg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo.png" style="padding-right:10px;" />
 
 
 <br />
