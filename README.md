@@ -36,5 +36,10 @@
 <br />
 <br />
 
+## Some oF my github stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=naneps alt=naneps /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true&include_all_commits=true)](https://github.com/mrizqighana/github-readme-stats)
+
 
 [instagram]: "https://www.instagram.com/nannn_ep/"
