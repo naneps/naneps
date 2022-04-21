@@ -35,7 +35,7 @@
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="36px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" style="padding-right:10px;" />
 <br />
-<img align="left" alt="Android Studio" width="36px" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Android Studio" width="36px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
 <br />
 <br />
 
