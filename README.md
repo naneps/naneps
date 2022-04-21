@@ -11,11 +11,11 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
-### Connect with me:
+## Most Used Langueses:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact)](https://github.com/naneps/github-readme-stats)
-<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
