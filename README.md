@@ -6,10 +6,14 @@
 
 ## I'm a Junior Developer;
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other 
-- 🥅 2022 Goals: Learn more about Android Developer
-- ⚡ Fun fact: I Like To Play Game 
+
+- 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other 
+<!-- - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years -->
+- ⚡ &ensp;Fun fact: I love reading & play game
+- 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
+
 
 
 ## Most Used Langueses:
@@ -46,4 +50,13 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true&include_all_commits=true)](https://github.com/mrizqighana/github-readme-stats)
 
 
-[instagram]: "https://www.instagram.com/nannn_ep/"
+
+
+[website]: https://johannesmilke.com
+<!-- [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke -->
+[youtube]: https://www.youtube.com/JohannesMilke?sub_confirmation=1
+[linkedin]:https://www.linkedin.com/in/nandang-eka-prasetya-265b5b1b8/
+[github]: https://github.com/naneps
+[instagram]: https://www.instagram.com/nannn_ep/
+[facebook]:https://www.facebook.com/prasetya.libra/
+[email]: ekaprasetya2244@gmail.com
