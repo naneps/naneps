@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/nannn_ep/">Nannn Milke!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/nannn_ep/">Nannn!</a></h1>
 <h3 align="center">A Random programmer who keeps you alive 😜</h3>
 
 
