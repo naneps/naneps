@@ -32,7 +32,7 @@
 <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="php" width="36px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Dart" width="36px" src="https://www.fluttericon.com/logo_dart_192px.svg" style="padding-right:10px;" />
-<img align="left" alt="Vue JS" width="36px" src="https://img1.pngdownload.id/20180718/zqt/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1b93c716.7614705815318871316053.jpg" style="padding-right:10px;" />
+<img align="left" alt="Vue JS" width="36px" src="https://img2.pngdownload.id/20180407/qcq/kisspng-vue-js-javascript-framework-front-and-back-ends-gi-technical-5ac9109e8adb43.6860172915231264305688.jpg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png" style="padding-right:10px;" />
 </p>
