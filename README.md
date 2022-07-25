@@ -11,9 +11,9 @@
 
 
 <!-- - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! -->
-- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 🌱 &ensp;I’m currently random coder 👌
 - 👯 &ensp;I’m looking to collaborate with other 
-- 🗿 &ensp;
+- 🗿 &ensp;Explore Code
 - ⚡ &ensp;Fun fact: I love reading & play game
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
 
