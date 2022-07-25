@@ -2,9 +2,9 @@
 <h3 align="center">A Random programmer who keeps you alive 😜</h3>
 
 <!-- [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] -->
- [![Instagram: Nandang Eka Prasetya](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/nannn_ep/)][instagram]
- [![GitHub followers](https://img.shields.io/github/followers/naneps?logo=GitHub&style=for-the-badge)][github]
- [![Linkedin: Nandang Eka Prasetya](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nandang-eka-prasetya-  265b5b1b8/)][linkedin]
+[![Instagram: Nandang Eka Prasetya](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/nannn_ep/)][instagram]
+[![GitHub followers](https://img.shields.io/github/followers/naneps?logo=GitHub&style=for-the-badge)][github]
+[![Linkedin: Nandang Eka Prasetya](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nandang-eka-prasetya-  265b5b1b8/)][linkedin]
 
 
 
