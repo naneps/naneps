@@ -25,17 +25,17 @@
 <br />
 <br />
 <h1>Langues And Framwork</h1>:
-<p align="center ">
+<p style="text-align:center;">
 <img align="left" alt="Visual Studio Code" width="36px" src="https://miro.medium.com/max/1050/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<svg class="logo" viewBox="0 0 128 128" width="24" height="24" data-v-b746bafa=""><path fill="#42b883" d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z" data-v-b746bafa=""></path><path fill="#35495e" d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z" data-v-b746bafa=""></path></svg>
 <img align="left" alt="php" width="36px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Dart" width="36px" src="https://www.fluttericon.com/logo_dart_192px.svg" style="padding-right:10px;" />
-<img align="left" alt="Laravel" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Vue JS" width="36px" src="https://img1.pngdownload.id/20180407/gse/kisspng-vue-js-javascript-framework-front-and-back-ends-gi-technical-5ac9109e6cb7f5.5357905715231264304453.jpg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" style="padding-right:10px;" />
- </p>
+<img align="left" alt="Laravel" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png" style="padding-right:10px;" />
+</p>
 
 <br />
 <br />
