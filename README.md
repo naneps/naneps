@@ -50,9 +50,26 @@
 <br />
 
 ## Some oF my github stats
-<p align=center> <img src=https://komarev.com/ghpvc/?username=naneps alt=naneps /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true&include_all_commits=true)](https://github.com/mrizqighana/github-readme-stats)
+<details open="">
+  <summary><b>📈 GitHub Stats</b></summary>
+  <p align="center">
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=light"/></a>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EngrSaad2&show_icons=true" width=55%/></a>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact&langs_count=10" width=40%/></a>
+   <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+  </p>
+</details>
+
+<details>
+  <summary><b>🖥️ Best Projects I've Worked On</b></summary>
+  
+  <h3>Al Quran With English and Bengali Translation</h3>
+  <br/>
+  <p align="center">
+    Watch me, <a href="https://www.youtube.com/c/EngrSaad">Engr Saad</a> on YouTube!
+  </p>
+</details>
 
 
 
