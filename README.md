@@ -19,12 +19,6 @@
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
 
 
-
-## Most Used Langueses:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<br />
 <h1>Langues And Framwork</h1>:
 <p style="text-align:center;">
 <img align="left" alt="Visual Studio Code" width="36px" src="https://miro.medium.com/max/1050/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="padding-right:10px;" />
@@ -55,26 +49,13 @@
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=light"/></a>
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EngrSaad2&show_icons=true" width=55%/></a>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width=55%/></a>
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact&langs_count=10" width=40%/></a>
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
 
-<details>
-  <summary><b>🖥️ Best Projects I've Worked On</b></summary>
-  
-  <h3>Al Quran With English and Bengali Translation</h3>
-  <br/>
-  <p align="center">
-    Watch me, <a href="https://www.youtube.com/c/EngrSaad">Engr Saad</a> on YouTube!
-  </p>
-</details>
 
-
-
-
-[website]: https://johannesmilke.com
 <!-- [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke -->
 [youtube]: https://www.youtube.com/JohannesMilke?sub_confirmation=1
 [linkedin]:https://www.linkedin.com/in/nandang-eka-prasetya-265b5b1b8/
