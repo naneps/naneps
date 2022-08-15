@@ -11,13 +11,13 @@
 ## I'm a Random Developer;
 
 
-<!-- - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! -->
+<h5 align="center">
 - 🌱 &ensp;I’m currently random coder 👌
 - 👯 &ensp;I’m looking to collaborate with other 
 - 🗿 &ensp;Explore Code
 - ⚡ &ensp;Fun fact: I love reading & play game
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
-
+</h5>
 
 ##  Ability Stats
 <details open="">
@@ -53,7 +53,7 @@
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=light"/></a>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=dark"/></a>
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width=50%/></a>
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact&langs_count=10" width=50%/></a>
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
