@@ -53,9 +53,9 @@
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=dark"/></a></p>
     <p align="right">
    
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width=50%/></a></p>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width="50%"/></a></p>
      <p align="center">
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact&langs_count=10" width=50% height="300px"/></a></p>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact&langs_count=10" width="50%" height="300px"/></a></p>
     
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
 </details>
