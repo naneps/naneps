@@ -19,7 +19,7 @@
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
 
 
-##  Aility Stats
+##  Ability Stats
 <details open="">
 <summary><b> ⚙️ Langues And Framwork </b></summary>
  </br>
@@ -34,19 +34,19 @@
 <img align="left" alt="Java" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png" style="padding-right:10px;" />
 </p>
-</details>
-
-
-<br />
 <br />
 
-### Tools:
+<summary><b> ⚙️ Tools  </b></summary>
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="36px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" style="padding-right:10px;" />
 <br />
 <img align="left" alt="Android Studio" width="36px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
 <br />
-<br />
+</details>
+
+
+
+
 
 ## Some oF my github stats
 
