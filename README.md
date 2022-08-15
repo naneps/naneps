@@ -21,7 +21,7 @@
 <details open="">
 <summary><b> ⚙️ Langues And Framwork </b></summary>
  </br>
-<p style="text-align:center;">
+<p align="center">
 <img align="left" alt="Visual Studio Code" width="36px" src="https://miro.medium.com/max/1050/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -49,10 +49,14 @@
 ## Some oF my github stats
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
-  <p>
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=dark"/></a>
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width=50%/></a>
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact&langs_count=10" width=50% height="300px"/></a>
+  <p align="left">
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=dark"/></a></p>
+    <p align="right">
+   
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width=50%/></a></p>
+     <p align="center">
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact&langs_count=10" width=50% height="300px"/></a></p>
+    
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
 </details>
 
