@@ -8,7 +8,7 @@
 
 
 
-## I'm a Junior Developer;
+## I'm a Random Developer;
 
 
 <!-- - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! -->
@@ -19,7 +19,9 @@
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
 
 
-<h1>Langues And Framwork</h1>:
+<h1></h1>:
+<details open="">
+<summary><b> ⚙️ Langues And Framwork </b></summary>
 <p style="text-align:center;">
 <img align="left" alt="Visual Studio Code" width="36px" src="https://miro.medium.com/max/1050/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -31,6 +33,8 @@
 <img align="left" alt="Java" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png" style="padding-right:10px;" />
 </p>
+</details>
+
 
 <br />
 <br />
@@ -49,7 +53,7 @@
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=light"/></a>
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width=55%/></a>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width=100%/></a>
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact&langs_count=10" width=40%/></a>
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
