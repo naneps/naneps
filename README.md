@@ -32,12 +32,14 @@
 <img align="left" alt="Java" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png" style="padding-right:10px;" />
 </p>
-<br />
-
-<summary><b> ⚙️ Tools  </b></summary>
+</br>
+</br>
+<p><b> ⚙️ Tools  </b></p>
+</br>
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="36px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" style="padding-right:10px;" />
-<br />
+
+<img align="left" alt="postman" width="36px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="36px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
 <br />
 </details>
@@ -49,13 +51,14 @@
 ## Some oF my github stats
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
+   <p align="center" >  <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact&langs_count=10" width="50%" height="400px"/></a> 
 <p align='center'>
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=dark"/></a>
    
    
- <p align="center">   <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width="40%"/></a>
+ <p align="center">   <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width="50%"/></a>
   
- <p align="center" >  <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact&langs_count=10" width="40%" height="300px"/></a> 
+
     
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a> 
 </details>
