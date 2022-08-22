@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/nannn_ep/">Nannn!</a></h1>
-<h3 align="center">A Random programmer who keeps you alive 😜</h3>
+<h3 align="center">A Random programmer😜</h3>
 
 <!-- [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] -->
 [![Instagram: Nandang Eka Prasetya](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/nannn_ep/)][instagram]
@@ -8,7 +8,7 @@
 
 
 
-## I'm a Random Developer
+## I'm a Random 
 
 - 🌱 &ensp;I’m currently random coder 👌
 - 👯 &ensp;I’m looking to collaborate with other 
@@ -45,21 +45,14 @@
 </details>
 
 
-
-
-
 ## Some oF my github stats
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
    <p align="center" >  <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneps&layout=compact&langs_count=10" width="50%" height="400px"/></a> 
 <p align='center'>
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=dark"/></a>
-   
-   
  <p align="center">   <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width="50%"/></a>
-  
-
-    
+     
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a> 
 </details>
 
