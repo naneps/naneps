@@ -5,8 +5,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/naneps?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Nandang Eka Prasetya](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nandang-eka-prasetya-265b5b1b8/)][linkedin]
 
-
-
 ## I'm a Random 
 
 - 🌱 &ensp;I’m currently random coder 👌
@@ -39,15 +37,29 @@
 <img align="left" alt="Laravel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png" style="padding-right:10px;" />
 <a href=""> <img align="left" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" style="padding-right:10px;" /></a>
 
-</br>
+
 </br>
 <p><b> ⚙️ Tools  </b></p>
 </br>
+<a href="https://code.visualstudio.com" target="_blank">
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+</a>
+
+<a target="_blank" href="https://developer.android.com" >
 <img align="left" alt="Android Studio" width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" style="padding-right:10px;" />
-<img align="left" alt="postman" width="40px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" style="padding-right:10px;" />
-<img align="left" alt="Android Studio" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
-<br />
+</a>
+<a target="_blank" href="https://postman.com">
+<img align="left" alt="postman" width="40px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" style="padding-right:10px;" />
+</a>
+<a target="_blank" href="https://figma.com">
+<img align="left" alt="Figma" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
+</a>
+<a target="_blank" href="https://git-scm.com">
+<img align="left" alt="git" width="40px" src="https://git-scm.com/images/logo@2x.png" style="padding-right:10px;" />
+</a>
+<a target="_blank" href="https://firebase.google.com">
+<img align="left" alt="git" width="40px" src="https://www.gstatic.com/devrel-devsite/prod/v6bd99c7d8fa6220aea6020b29137b212e2eacdba13242535487f52ab3557b0cb/firebase/images/lockup.svg" style="padding-right:10px;" />
+</a>
 </details>
 
 
@@ -58,15 +70,11 @@
 <p align='center'>
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=dark"/></a>
  <p align="center">   <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width="50%"/></a>
-     
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a> 
 </details>
 
-
-<!-- [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke -->
-<!-- [youtube]: https://www.youtube.com/JohannesMilke?sub_confirmation=1 -->
 [linkedin]:https://www.linkedin.com/in/nandang-eka-prasetya-265b5b1b8/
 [github]: https://github.com/naneps
 [instagram]: https://www.instagram.com/nannn_ep/
 [facebook]:https://www.facebook.com/prasetya.libra/
-[email]: ekaprasetya2244@gmail.com
+[email]: ekaprasetya2244@gmail.com/
