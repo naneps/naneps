@@ -23,15 +23,15 @@
 
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-  <a href="https://sass-lang.com/" target="_blank"><img align="left" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40pxheight="40" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40pxheight="40" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img align="left" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40px" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40px" /></a>
  
   </a>
-  <a href="https://tailwindcss.com/" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" alt="tailwind css" width="40pxheight="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" alt="tailwind css" width="40px"  /></a>
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-<a href="https://beufy.org/" target="_blank"><img align="left" src="https://buefy.org/static/img/buefy-light.7df103a.png" alt="beufy" width="40pxheight="40" /></a>
-<a href="https://vuejs.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40px"height="40" /></a>
+<a href="https://beufy.org/" target="_blank"><img align="left" src="https://buefy.org/static/img/buefy-light.7df103a.png" alt="beufy" width="40px" /></a>
+<a href="https://vuejs.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40px" /></a>
 <img align="left" alt="Flutter" width="40px" src="https://miro.medium.com/max/1050/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="padding-right:10px;" />
 <img align="left" alt="Dart" width="40px" src="https://www.fluttericon.com/logo_dart_192px.svg" style="padding-right:10px;" />
   
