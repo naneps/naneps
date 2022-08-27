@@ -31,7 +31,7 @@
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 <a href="https://beufy.org/" target="_blank"><img align="left" src="https://buefy.org/static/img/buefy-light.7df103a.png" alt="beufy" width="40pxheight="40" /></a>
-<a href="https://vuejs.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40pxheight="40" /></a>
+<a href="https://vuejs.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40px"height="40" /></a>
 <img align="left" alt="Flutter" width="40px" src="https://miro.medium.com/max/1050/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="padding-right:10px;" />
 <img align="left" alt="Dart" width="40px" src="https://www.fluttericon.com/logo_dart_192px.svg" style="padding-right:10px;" />
   
