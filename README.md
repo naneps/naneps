@@ -36,30 +36,15 @@
   <img align="left" alt="Laravel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png" style="padding-right:10px;" />
   <a href=""> <img align="left" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" style="padding-right:10px;" /></a>
 
-
-  </br>
-  </br>
-  <p><b> ⚙️ Tools  </b></p>
-  </br>
-  <a href="https://code.visualstudio.com" target="_blank">
-  <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-  </a>
-
-  <a target="_blank" href="https://developer.android.com" >
-  <img align="left" alt="Android Studio" width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" style="padding-right:10px;" />
-  </a>
-  <a target="_blank" href="https://postman.com">
-  <img align="left" alt="postman" width="40px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" style="padding-right:10px;" />
-  </a>
-  <a target="_blank" href="https://figma.com">
-  <img align="left" alt="Figma" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
-  </a>
-  <a target="_blank" href="https://git-scm.com">
-  <img align="left" alt="git" width="40px" src="https://git-scm.com/images/logo@2x.png" style="padding-right:10px;" />
-  </a>
-  <a target="_blank" href="https://firebase.google.com">
-  <img align="left" alt="git" width="40px" src="https://www.gstatic.com/devrel-devsite/prod/v6bd99c7d8fa6220aea6020b29137b212e2eacdba13242535487f52ab3557b0cb/firebase/images/lockup.svg" style="padding-right:10px;" />
-  </a>
+</br>
+</br>
+<p><b> ⚙️ Tools  </b></p>
+</br>
+<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Android Studio" width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" style="padding-right:10px;" />
+<img align="left" alt="postman" width="40px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" style="padding-right:10px;" />
+<img align="left" alt="Android Studio" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
+<br />
 </details>
 
 
