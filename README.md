@@ -29,6 +29,7 @@
 
   <a href="https://beufy.org/" target="_blank"><img align="left" src="https://buefy.org/static/img/buefy-light.7df103a.png" alt="beufy" width="40px" /></a>
   <a href="https://vuejs.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40px" /></a>
+    <a href="https://nuxtjs.org/" target="_blank"><img align="left" src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="vuejs" width="40px" /></a>
   <img align="left" alt="Flutter" width="40px" src="https://miro.medium.com/max/1050/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="padding-right:10px;" />
   <img align="left" alt="Dart" width="40px" src="https://www.fluttericon.com/logo_dart_192px.svg" style="padding-right:10px;" />
     
