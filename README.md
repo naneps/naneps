@@ -1,20 +1,22 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/nannn_ep/">Nannn!</a></h1>
-<h3 align="center">A Random programmer😜</h3>
+
+<div align="center">
+
 
 [![Instagram: Nandang Eka Prasetya](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/nannn_ep/)][instagram]
 [![GitHub followers](https://img.shields.io/github/followers/naneps?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Nandang Eka Prasetya](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nandang-eka-prasetya-265b5b1b8/)][linkedin]
+</div>
 
-## I'm a Random 
 
-- 🌱 &ensp;I’m currently random coder 👌
+
 - 👯 &ensp;I’m looking to collaborate with other 
 - 🗿 &ensp;Explore Code
 - ⚡ &ensp;Fun fact: I love reading & play game
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
-<br />
 
-##  Ability Stats
+
+## Ability Stats
 <details open="">
   <summary><b> ⚙️ Langues And Framwork </b></summary>
  </br>
@@ -59,7 +61,7 @@
 <p align='center'>
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naneps&theme=dark"/></a>
  <p align="center">   <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naneps&show_icons=true" width="50%"/></a>
-   <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a> 
+ 
 </details>
 
 [linkedin]:https://www.linkedin.com/in/nandang-eka-prasetya-265b5b1b8/
