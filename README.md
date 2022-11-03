@@ -1,11 +1,15 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/nannn_ep/">Nannn!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/nannn_ep/"></a></h1>
+<div align="center">
 
+[![jasineri/gitartwork](gitartwork.svg)](https://github.com/naneps/naneps)
+</div>
 <div align="center">
 
 
 [![Instagram: Nandang Eka Prasetya](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/nannn_ep/)][instagram]
 [![GitHub followers](https://img.shields.io/github/followers/naneps?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Nandang Eka Prasetya](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nandang-eka-prasetya-265b5b1b8/)][linkedin]
+
 </div>
 
 
@@ -13,8 +17,9 @@
 - 👯 &ensp;I’m looking to collaborate with other 
 - 🗿 &ensp;Explore Code
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
-
-
+<div align="center">
+  
+</div>
 ## Ability Stats
 <details open="">
   <summary><b> ⚙️ Langues And Framwork </b></summary>
@@ -51,7 +56,7 @@
 <a href="https://vitejs.org/" target="_blank"><img align="left" src="https://vitejs.dev/logo.svg" alt="vitejs" width="40px" /></a>
 <br />
 </details>
-![gitartwork](gitartwork.svg)
+
 
 
 
