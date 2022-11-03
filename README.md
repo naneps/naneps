@@ -17,9 +17,7 @@
 - 👯 &ensp;I’m looking to collaborate with other 
 - 🗿 &ensp;Explore Code
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
-<div align="center">
-  
-</div>
+
 ## Ability Stats
 <details open="">
   <summary><b> ⚙️ Langues And Framwork </b></summary>
