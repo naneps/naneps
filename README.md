@@ -5,7 +5,6 @@
 </div>
 <div align="center">
 
-
 [![Instagram: Nandang Eka Prasetya](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/nannn_ep/)][instagram]
 [![GitHub followers](https://img.shields.io/github/followers/naneps?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Nandang Eka Prasetya](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nandang-eka-prasetya-265b5b1b8/)][linkedin]
