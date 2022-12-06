@@ -19,7 +19,7 @@
 
 ## Ability Stats
 <details open="">
-  <summary><b> ⚙️ Langues And Framwork </b></summary>
+  <summary><b> ⚙️ Tech Stack </b></summary>
  </br>
   <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -52,6 +52,8 @@
 <img align="left" alt="postman" width="40px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"  />
 <img align="left" alt="Android Studio" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
 <a href="https://vitejs.org/" target="_blank"><img align="left" src="https://vitejs.dev/logo.svg" alt="vitejs" width="40px" /></a>
+<a href="https://strapi.io/" target="_blank"><img align="left" src="https://handbook.strapi.io/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Fe7c0f16c-8bd3-4c76-8075-4c86f986e1b2%2Fimages%2F3ac5bb2f-7aac-4c2f-932a-a5de3bb694b2.png&w=1920&q=80" alt="strapi" width="40px" /></a>
+
 <br />
 </details>
 
