@@ -36,7 +36,8 @@
   <img align="left" alt="Dart" width="40px" src="https://www.fluttericon.com/logo_dart_192px.svg"  />   
   <img align="left" alt="php" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg"  />
   <a target="_blank" href="https://laravel.com"><img align="left" alt="Laravel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png"  /></a>
-  <a href=""> <img align="left" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"  /></a>  
+  <a href=""> <img align="left" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"  /></a>
+  </br>
 </details>
 
 </br>
