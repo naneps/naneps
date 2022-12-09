@@ -11,6 +11,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          
-          commit_message: 'commit at $(date)'
+          commit_message: 'Automatic commit at $(date)'
           branch: main
+          force: true
