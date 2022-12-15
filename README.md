@@ -28,10 +28,12 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" alt="tailwind css" width="40px"  /></a>
   <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
-  <a href="https://beufy.org/" target="_blank"><img align="left" src="https://buefy.org/static/img/buefy-light.7df103a.png" alt="beufy" width="40px" /></a>
   <a href="https://vuejs.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40px" /></a>
     <a href="https://nuxtjs.org/" target="_blank"><img align="left" src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="vuejs" width="40px" /></a>
        <a href="https://reactjs.org/" target="_blank"><img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reacjs" width="40px" /></a>
+         <a href="https://nodejs.org/" target="_blank"><img align="left" src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40px" /></a>
+<!--        <a href="https://expresjs.com/" target="_blank"><img align="left" src="https://banner2.cleanpng.com/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" alt="expresjs" width="40px" /></a> -->
+     
   <img align="left" alt="Flutter" width="40px" src="https://miro.medium.com/max/1050/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="padding-right:10px;" />
   <img align="left" alt="Dart" width="40px" src="https://www.fluttericon.com/logo_dart_192px.svg"  />   
   <img align="left" alt="php" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg"  />
