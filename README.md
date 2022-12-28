@@ -12,7 +12,6 @@
 </div>
 
 
-
 - 👯 &ensp;I’m looking to collaborate with other 
 - 🗿 &ensp;Explore Code
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
