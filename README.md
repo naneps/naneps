@@ -42,9 +42,10 @@
 
 </br>
 </br>
+</br>
 
 <details open="">
-  <summary><b> ⚙️ Tech Stack </b></summary>
+  <summary><b> ⚙️ Teols Stack </b></summary>
 
   <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" style="padding-right:10px;" />
@@ -52,6 +53,8 @@
 <img align="left" alt="Android Studio" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
 <a href="https://vitejs.org/" target="_blank"><img align="left" src="https://vitejs.dev/logo.svg" alt="vitejs" width="40px" /></a>
 <a href="https://strapi.io/" target="_blank"><img align="left" src="https://handbook.strapi.io/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Fe7c0f16c-8bd3-4c76-8075-4c86f986e1b2%2Fimages%2F3ac5bb2f-7aac-4c2f-932a-a5de3bb694b2.png&w=1920&q=80" alt="strapi" width="40px" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img align="left" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=id" alt="firebase" width="30px" /></a>
+ 
 </details>
 </br>
 
