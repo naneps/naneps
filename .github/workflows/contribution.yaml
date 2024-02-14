@@ -1,0 +1,22 @@
+name: Daily Contribution
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight every day
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'naneps'
+          git config --global user.email 'ekaprasetya2244@gmail.com'
+
+      - name: Run script
+        run: |
+          bash contribute.sh  # Replace with the name of your script
