@@ -1,8 +1,8 @@
-name: Daily Contribution
+name: Hourly Contribution
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at midnight every day
+    - cron: '0 */3 * * *'  # Runs every 3 hours
 
 jobs:
   build:
