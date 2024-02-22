@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Make changes to a file (e.g., CONTRIBUTE.md)
-echo "$(date): Automated contribution ⭐" >> CONTRIBUTE.md || { echo "Failed to make changes to CONTRIBUTE.md"; exit 1; }
+echo -e "$(date): Automated contribution ⭐\n" >> CONTRIBUTE.md || { echo "Failed to make changes to CONTRIBUTE.md"; exit 1; }
 
 # Stage changes
 git add CONTRIBUTE.md || { echo "Failed to stage changes"; exit 1; }
