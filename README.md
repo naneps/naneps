@@ -11,8 +11,6 @@
 
 </div>
 
-- 👯 &ensp;I’m looking to collaborate with others
-- 🗿 &ensp;Explore Code
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
 
 [linkedin]:https://www.linkedin.com/in/nandang-eka-prasetya-265b5b1b8/
