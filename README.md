@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-[![Instagram: Nandang Eka Prasetya](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/nannn_ep/)][instagram]
+[![Instagram: Nandang Eka Prasetya](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/_nannnde/)][instagram]
 [![GitHub followers](https://img.shields.io/github/followers/naneps?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Nandang Eka Prasetya](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nandang-eka-prasetya)][linkedin]
 
